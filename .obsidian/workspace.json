@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "cde0a8f6260d1c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f257313a0564546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6140f18a480ff42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3f824e6a19030fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c924df8d24bff003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b52a21fa1c3a5c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c5df598268a5c54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1528f7becab24375",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cedb6ce16532766e",
+    "type": "split",
+    "children": [
+      {
+        "id": "03413dc73ff0ae25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f5860c0cee9283c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b762b0a97ae708e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "399844cc0b7405ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80c8545a7b726d9b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0c2e9cb0ec8d08d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d6140f18a480ff42",
+  "lastOpenFiles": [
+    "content/photography-techniques/action-photography.md",
+    "README.md",
+    "LICENSE.txt",
+    "Dockerfile",
+    "CODE_OF_CONDUCT.md",
+    "quartz.ts",
+    "quartz.config.default.yaml",
+    "package-lock.json",
+    "package.json",
+    "index.d.ts",
+    "globals.d.ts",
+    "tsconfig.json",
+    "docs/plugins/AliasRedirects.md",
+    "docs/tags/plugin.md",
+    "docs/tags/component.md",
+    "docs/plugins/UnlistedPages.md",
+    "docs/plugins/TagPage.md",
+    "docs/plugins/TagList.md",
+    "docs/plugins/TableOfContents.md",
+    "docs/plugins/SyntaxHighlighting.md",
+    "docs/plugins/Static.md",
+    "docs/plugins/StackedPages.md",
+    "docs/plugins/Spacer.md",
+    "docs/plugins/Search.md",
+    "docs/plugins/RoamFlavoredMarkdown.md",
+    "docs/plugins/RemoveDrafts.md",
+    "docs/plugins/RecentNotes.md",
+    "docs/plugins/ReaderMode.md",
+    "docs/plugins/PageTitle.md",
+    "docs/plugins/OxHugoFlavoredMarkdown.md",
+    "docs/plugins/ObsidianFlavoredMarkdown.md",
+    "docs/plugins/NotFoundPage.md",
+    "docs/plugins/NoteProperties.md",
+    "docs/plugins/Latex.md",
+    "docs/plugins/index.md",
+    "docs/images/social-image-preview-dark.png",
+    "docs/images/quartz transform pipeline.png",
+    "docs/images/social-image-preview-light.png",
+    "docs/images/giscus-results.png",
+    "docs/images/custom-social-image-preview-light.png",
+    "docs/images/quartz-layout-tablet.png",
+    "docs/images/quartz-layout-mobile.png",
+    "docs/images/quartz-layout-desktop.png",
+    "docs/images/github-quick-setup.png",
+    "docs/images/github-init-repo-options.png",
+    "docs/tags",
+    "docs/Canvas.canvas"
+  ]
+}
